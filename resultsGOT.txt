@@ -1,0 +1,7 @@
+<Name>      <Hero>      <Points>
+Yonks       Self        5
+y           Self        5               
+Yonkers     Self        5           
+POWER       Self        37          
+HELLO       Self        27          
+y           Self        5           
